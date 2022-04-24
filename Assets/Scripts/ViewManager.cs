@@ -11,7 +11,6 @@ public class ViewManager : MonoBehaviour
     void Start()
     {
         partsOfBody = new List<GameObject>();
-        actualPartOfBody = new GameObject();
     }
 
     // Update is called once per frame
