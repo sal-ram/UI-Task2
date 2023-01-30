@@ -12,4 +12,4 @@
 - Элемент "Три точки" (сворачивает и разворачивает рабочую панель)
 - Человечек
 
-YOUTUBE: https://youtu.be/WDcRErKO0qw
+YOUTUBE SAMPLE: https://youtu.be/WDcRErKO0qw
